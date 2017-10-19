@@ -1,5 +1,6 @@
 <?php
  require_once('ApiUtil.php');
+ 
  $userId = 1;
  $bankCode = 'CMB';
  $paymentNo = '6214830297315292';
